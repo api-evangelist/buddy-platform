@@ -1,0 +1,62 @@
+{
+    "name": "Buddy Platform",
+    "description": "Buddy Platform is a lightweight, fast and flexible platform for collecting and processing Internet of Things (IoT) data.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/61-buddy-platform.jpg",
+    "tags": [
+        "api service provider",
+        "baas",
+        "have api",
+        "internet of things"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/buddy-platform\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Buddy Platform",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/61-buddy-platform.jpg",
+            "humanURL": "http:\/\/buddy.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/buddy-platform-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.buddy.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/buddy"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/buddy"
+        },
+        {
+            "type": "Email",
+            "url": "info@buddy.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/buddy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/buddyplatform"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/buddy.com"
+        }
+    ]
+}
